@@ -1,17 +1,17 @@
 # School District Analysis
-Analyzing school district data
+Analyzing school district data via Pandas DataFrames
 
 ## Overview
 The purpose of this analysis is to investigate the effects of removing potentially dishonest scores on the overall district testing outcomes. 
 
 ## Resources
-- Jupyter Notebook
+- Jupyter Notebook 6.4.5
 - students_complete.csv
 - schools_complete.csv
 
 ## Methods
 Using a series of Pandas DataFrames, the given school district data was cleaned and the results were analyzed for changes based on score removal. </br></br>
-Example Data Frame Code Set-Up: 
+**Example Data Frame Code Set-Up:** 
 ```
 district_summary_df = pd.DataFrame(
           [{"Total Schools": school_count, 
