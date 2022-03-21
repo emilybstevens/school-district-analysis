@@ -1,4 +1,4 @@
-# School District Analysis
+# PyCitySchools with Pandas
 Analyzing school district data via Pandas DataFrames
 
 ## Overview
