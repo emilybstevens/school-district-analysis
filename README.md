@@ -37,14 +37,16 @@ a change of -0.086481 points.
 - The percentage of students passing reading dropped from 
 97.308869 to 97.018739,
 a change of -0.29013 points. 
-- The percentrage of students passing overall dropped from 
+- The percentrage of students passing overall decreased from 
 90.948012 to 90.630324, 
-a change of -0.317688points. 	
+a change of -0.317688 points. 	
 
 ### How does replacing the ninth graders’ math and reading scores affect 
 Thomas High School’s performance relative to the other schools?
 #### Original Relative Performance
+![Original Relative Performance](Resources/relative_performance_original.png)
 #### Updated Relative Performance 
+![Updated Relative Performance](Resources/relative_performance_updated.png)
 #### Changes Catalogued
 
 ### How does replacing the ninth-grade scores affect the following:
