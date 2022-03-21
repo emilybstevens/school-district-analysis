@@ -19,6 +19,16 @@ Math dropped by 0.2%, reading by 0.3%, and overall testing dropped by 0.1%.
 ![Original School Summary](Resources/original_school_summary.png)
 #### Updated School Summary
 ![Updated School Summary](Resources/updated_school_summary.png)
+#### Changes Catalogued
+After removing the 9th grade testing results from Thomas High School, several
+changes were noted. 
+- The average math score dropped from 83.418349 to 83.350937,
+ a change of -0.067412 points. 
+- The average reading score increased from 83.848930 to 83.896082, 
+a change of +0.047152 points. 
+- The percentage of students passing math 
+- The percentage of students passing reading
+- THe percentrage of students passing overall	
 ### How does replacing the ninth graders’ math and reading scores affect 
 Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
