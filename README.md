@@ -56,11 +56,19 @@ While removing the 9th grade scores did affect Thomas High School's overall test
 the minute changes did not affect the school's ranking in the district. Thomas High School remains
 the SECOND highest-scoring school in the district, based on their OVERALL passing percent rate. 
 
-### How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
+### Other Effects of Replacing 9th Grade Scores
+#### Math and reading Scores by Grade
+##### Original Math Scores
+![Original Math Scores](Resources/math_scores_grade_original.png)
+##### Updated Math Scores
+![Updated Math Scores](Resources/math_scores_grade_updated.png)
+##### Original Reading Scores
+![Original Reading Scores](Resources/reading_scores_grade_original.png)
+##### Updated Reading Scores
+![Updated Reading Scores](Resources/reading_scores_grade_updated.png)
+#### Scores by school spending
+#### Scores by school size
+#### Scores by school type
 
 ## Summary 
 Summarize four changes in the updated school district analysis after reading
