@@ -82,6 +82,6 @@ The district passing percentages for reading, math, and overall testing dropped 
 - Average MATH: -0.1 points
 - % of student passing MATH: -0.2%
 - % of student passing READING: -0.3%
-- Percent OVERALL passing: -0.1%)</br></br>
+- Percent OVERALL passing: -0.1%)</br>
 
 However, despite the changes in Thomas High School's test scores, the school's district ranking was not affected. In addition, district scores based on various metrics (school spending, school size, and school type) had no apparent change. 
