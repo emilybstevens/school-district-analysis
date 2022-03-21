@@ -74,6 +74,7 @@ After removing Thomas High School's 9th grade scores, no changes were noted in t
 ##### Updated Scores
 ![School Type Updated](Resources/school_type_updated.png)
 ##### Changes Catalogued
+After removing Thomas High School's 9th grade scores, no changes were noted in testing results based on school type. 
 
 ## Summary 
 Summarize four changes in the updated school district analysis after reading
