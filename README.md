@@ -2,7 +2,7 @@
 Analyzing school district data
 
 ## Overview
-Explain the purpose of this analysis
+The purpose of this analysis is to investigate the effects of removing potentially dishonest scores on the overall district testing outcomes. 
 
 ## Results 
 
@@ -33,7 +33,7 @@ The only category that increased was the average reading score.
 - The percentage of students passing READING dropped from 97.308869% to 97.018739%, a change of -0.29013%. 
 - The percentage of students passing OVERALL decreased from 90.948012% to 90.630324%, a change of -0.317688%. </br>
 
-The only category to experience a positive change after removing 9th grade scores was the category **Average Reading Score**. All other categories were negatively affected by the removal. 	
+The only category to experience a positive change after removing 9th grade scores was the category ***Average Reading Score***. All other categories were negatively affected by the removal. 	
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Original Relative Performance
