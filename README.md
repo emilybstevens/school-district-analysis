@@ -44,7 +44,7 @@ Thomas High School remains the SECOND highest-scoring school in the district, ba
 
 ### Other Effects of Replacing 9th Grade Scores
 
-#### Math and reading Scores by Grade
+#### Math and Reading Scores by Grade
 ##### Math Scores
 ![Original Math Scores](Resources/math_scores_grade_original.png) ![Updated Math Scores](Resources/math_scores_grade_updated1.png)
 ##### Reading Scores
@@ -52,7 +52,7 @@ Thomas High School remains the SECOND highest-scoring school in the district, ba
 ##### Changes Catalogued
 After removing the 9th grade scores, no changes were catalogued in other grade categories. 
 
-#### Scores by school spending
+#### Scores by School Spending
 ##### Original Scores
 ![School Spending Original](Resources/school_spending_original.png)
 ##### Updated Scores
@@ -60,17 +60,20 @@ After removing the 9th grade scores, no changes were catalogued in other grade c
 ##### Changes Catalogued
 After removing Thomas High School's 9th grade scores, no changes were noted in testing results based on spending bracket. 
 
-#### Scores by school size
+#### Scores by School Size
 ##### Original Scores
 ![School Size Original](Resources/school_size_original.png)
 ##### Updated Scores
 ![School Size Updated](Resources/school_size_updated.png)
 ##### Changes Catalogued
+After removing Thomas High School's 9th grade scores, no changes were noted in testing results based on school size. 
 
-
-#### Scores by school type
+#### Scores by School Type
 ##### Original Scores
+![School Type Original](Resources/school_type_original.png)
 ##### Updated Scores
+![School Type Updated](Resources/school_type_updated.png)
+##### Changes Catalogued
 
 ## Summary 
 Summarize four changes in the updated school district analysis after reading
