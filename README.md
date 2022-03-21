@@ -52,6 +52,9 @@ Thomas High School’s performance relative to the other schools?
 #### Updated Relative Performance 
 ![Updated Relative Performance](Resources/relative_performance_updated.png)
 #### Changes Catalogued
+While removing the 9th grade scores did affect Thomas High School's overall test scores, 
+the minute changes did not affect the school's ranking in the district. Thomas High School remains
+the SECOND highest-scoring school in the district, based on their OVERALL passing percent rate. 
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
