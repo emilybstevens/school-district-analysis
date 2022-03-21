@@ -14,7 +14,11 @@ Explain the purpose of this analysis
 #### Changes Catalogued
 After removing the 9th grade testing results from Thomas High School, the passing
 percentages for reading, math, and overall testing dropped by a small portion. 
-Math dropped by 0.2%, reading by 0.3%, and overall testing dropped by 0.1%. 
+- Average MATH score decreased by 0.1 points. 
+- Average READING score had no change. 
+- Percent of students passing MATH decreased by 0.2%
+- Percent of students passing READING decreased by 0.3%
+- Percent OVERALL passing dropped by 0.1%. 
 
 ### How is the school summary affected?
 #### Original School Summary
