@@ -58,10 +58,9 @@ the SECOND highest-scoring school in the district, based on their OVERALL passin
 
 ### Other Effects of Replacing 9th Grade Scores
 #### Math and reading Scores by Grade
-##### Original Math Scores                                        | Updated Math Scores
-![Original Math Scores](Resources/math_scores_grade_original.png) | ![Updated Math Scores](Resources/math_scores_grade_updated.png)
-##### Updated Math Scores
-![Updated Math Scores](Resources/math_scores_grade_updated.png)
+##### Math Scores
+![Original Math Scores](Resources/math_scores_grade_original.png) ![Updated Math Scores](Resources/math_scores_grade_updated.png)
+
 ##### Original Reading Scores
 ![Original Reading Scores](Resources/reading_scores_grade_original.png)
 ##### Updated Reading Scores
