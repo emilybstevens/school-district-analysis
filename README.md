@@ -62,7 +62,8 @@ the SECOND highest-scoring school in the district, based on their OVERALL passin
 ![Original Math Scores](Resources/math_scores_grade_original.png) ![Updated Math Scores](Resources/math_scores_grade_updated1.png)
 ##### Reading Scores
 ![Original Reading Scores](Resources/reading_scores_grade_original.png) ![Updated Reading Scores](Resources/reading_scores_grade_updated.png) 
-
+##### Changes Catalogued
+After removing the 9th grade scores, no changes were catalogued in other grade categories. 
 #### Scores by school spending
 #### Scores by school size
 #### Scores by school type
