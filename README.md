@@ -77,6 +77,5 @@ After removing Thomas High School's 9th grade scores, no changes were noted in t
 After removing Thomas High School's 9th grade scores, no changes were noted in testing results based on school type. 
 
 ## Summary 
-Summarize four changes in the updated school district analysis after reading
-and math scores for the ninth grade at Thomas High School have been replaced 
-with NaNs.
+Removing the Thomas High School 9th grade test scores had several major imacts on the district's overall scores. </br>
+First, the district passing percentages for reading, math, and overall testing dropped by a small portion. (Average MATH: -0.1 points, % of student passing MATH: -0.2%, % of student passing READING: -0.3%, Percent OVERALL passing: -0.1%)
