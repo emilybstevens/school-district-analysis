@@ -48,11 +48,11 @@ After removing the 9th grade testing results from Thomas High School, the passin
 #### Changes Catalogued
 After removing the 9th grade testing results from Thomas High School, several changes were noted. Almost all categories suffered a small drop in value after 9th grade test scores were removed. 
 The only category that increased was the average reading score. 
-- The average MATH score dropped from 83.418349 to 83.350937, a change of -0.067412 points. 
-- The average READING score increased from 83.848930 to 83.896082, a change of +0.047152 points. 
-- The percentage of students passing MATH dropped from 93.272171% to 93.185690%, a change of -0.086481%.
-- The percentage of students passing READING dropped from 97.308869% to 97.018739%, a change of -0.29013%. 
-- The percentage of students passing OVERALL decreased from 90.948012% to 90.630324%, a change of -0.317688%. </br>
+- The average MATH score decreased by 0.067412 points. 
+- The average READING score increased by 0.047152 points. 
+- The percentage of students passing MATH decreased by 0.086481%.
+- The percentage of students passing READING decreased by 0.29013%. 
+- The percentage of students passing OVERALL decreased by -0.317688%. </br>
 
 The only category to experience a positive change after removing 9th grade scores was the category ***Average Reading Score***. All other categories were negatively affected by the removal. 	
 
